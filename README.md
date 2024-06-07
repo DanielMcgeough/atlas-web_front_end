@@ -1,2 +1,2 @@
 # atlas-web_front_end
-The purpose of this repository is to begin to utilize html in preparation for creating the front end website side of our AirBnB clone. Html is one of the big 3 languages of web development along with CSS and JavaScript. This repo will grant us practice and the tools needed to make a structured webpage. A skeleton or ouline of sorts that the rest of our content will exist inside of.
+The purpose of this repository is to begin to utilize and familiarize ourselves with the tools that are essential for any web application being HTML and CSS. This weeks projects will focus on those two topics and culminated in using those skills in order to create a web static page for our airbnb project.
