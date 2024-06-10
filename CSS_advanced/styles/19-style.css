@@ -490,6 +490,10 @@ ul.row{
     color: var(--text-color);
 }
 
+.footer ul{
+    text-align: right;
+}
+
 :root {
 /* font family variables */
     --font-family-base: 'Open Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
